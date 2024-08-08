@@ -1,4 +1,4 @@
-import { Controller, Get, Render } from '@nestjs/common';
+import { Body, Controller, Get, Post, Render } from '@nestjs/common';
 import { AppService } from './app.service';
 
 @Controller()
@@ -11,10 +11,8 @@ export class AppController {
     return { message: 'Hello world!' };
   }
 
-  @Get('hello')
-  getHello(): string {
-    return this.appService.getHello();
+  @Post('/api/parse')
+  parse(@Body() body: { address: [] | string }): any {
+    return this.appService.parse(body);
   }
-
-
 }
