@@ -1,0 +1,107 @@
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u5805"}, {"TEXT": "\u5c3c"}, {"TEXT": "\u5730"}, {"TEXT": "\u57ce"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u9999"}, {"TEXT": "\u6e2f"}, {"TEXT": "\u4ed4"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u9d28"}, {"TEXT": "\u8137"}, {"TEXT": "\u6d32"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u9285"}, {"TEXT": "\u947c"}, {"TEXT": "\u7063"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u8202"}, {"TEXT": "\u574e"}, {"TEXT": "\u89d2"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u6df1"}, {"TEXT": "\u6c34"}, {"TEXT": "\u7063"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u8dd1"}, {"TEXT": "\u99ac"}, {"TEXT": "\u5730"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u534a"}, {"TEXT": "\u5c71"}, {"TEXT": "\u5340"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u8584"}, {"TEXT": "\u6276"}, {"TEXT": "\u6797"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u9c02"}, {"TEXT": "\u9b5a"}, {"TEXT": "\u6d8c"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u6dfa"}, {"TEXT": "\u6c34"}, {"TEXT": "\u7063"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u897f"}, {"TEXT": "\u7063"}, {"TEXT": "\u6cb3"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u897f"}, {"TEXT": "\u71df"}, {"TEXT": "\u76e4"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u7b72"}, {"TEXT": "\u7b95"}, {"TEXT": "\u7063"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u77f3"}, {"TEXT": "\u5858"}, {"TEXT": "\u5480"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u9ec3"}, {"TEXT": "\u7af9"}, {"TEXT": "\u5751"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u8336"}, {"TEXT": "\u679c"}, {"TEXT": "\u5dba"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u9577"}, {"TEXT": "\u6c99"}, {"TEXT": "\u7063"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u947d"}, {"TEXT": "\u77f3"}, {"TEXT": "\u5c71"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u4f55"}, {"TEXT": "\u6587"}, {"TEXT": "\u7530"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u4e5d"}, {"TEXT": "\u9f8d"}, {"TEXT": "\u7063"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u4e5d"}, {"TEXT": "\u9f8d"}, {"TEXT": "\u57ce"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u4e5d"}, {"TEXT": "\u9f8d"}, {"TEXT": "\u5858"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u8354"}, {"TEXT": "\u679d"}, {"TEXT": "\u89d2"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u725b"}, {"TEXT": "\u6c60"}, {"TEXT": "\u7063"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u725b"}, {"TEXT": "\u982d"}, {"TEXT": "\u89d2"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u65b0"}, {"TEXT": "\u84b2"}, {"TEXT": "\u5d17"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u79c0"}, {"TEXT": "\u8302"}, {"TEXT": "\u576a"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u6df1"}, {"TEXT": "\u6c34"}, {"TEXT": "\u57d7"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u77f3"}, {"TEXT": "\u7864"}, {"TEXT": "\u5c3e"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u5927"}, {"TEXT": "\u89d2"}, {"TEXT": "\u5480"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u571f"}, {"TEXT": "\u74dc"}, {"TEXT": "\u7063"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u5c16"}, {"TEXT": "\u6c99"}, {"TEXT": "\u5480"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u6148"}, {"TEXT": "\u96f2"}, {"TEXT": "\u5c71"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u6a6b"}, {"TEXT": "\u982d"}, {"TEXT": "\u78e1"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u9ec3"}, {"TEXT": "\u5927"}, {"TEXT": "\u4ed9"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u6cb9"}, {"TEXT": "\u9ebb"}, {"TEXT": "\u5730"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u53c8"}, {"TEXT": "\u4e00"}, {"LOWER": {"IN": ["\u90a8", "\u6751"]}}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u6e05"}, {"TEXT": "\u6c34"}, {"TEXT": "\u7063"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u6d2a"}, {"TEXT": "\u6c34"}, {"TEXT": "\u6a4b"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u5357"}, {"TEXT": "\u4e2b"}, {"TEXT": "\u5cf6"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u5927"}, {"TEXT": "\u5dbc"}, {"TEXT": "\u5c71"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u8d64"}, {"TEXT": "\u9c72"}, {"TEXT": "\u89d2"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u829d"}, {"TEXT": "\u9ebb"}, {"TEXT": "\u7063"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u6109"}, {"TEXT": "\u666f"}, {"TEXT": "\u7063"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u6d41"}, {"TEXT": "\u6d6e"}, {"TEXT": "\u5c71"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u99ac"}, {"TEXT": "\u978d"}, {"TEXT": "\u5c71"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u6c99"}, {"TEXT": "\u982d"}, {"TEXT": "\u89d2"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u5c0f"}, {"TEXT": "\u701d"}, {"TEXT": "\u6e90"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u6383"}, {"TEXT": "\u7ba1"}, {"TEXT": "\u7b0f"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u5c0f"}, {"TEXT": "\u897f"}, {"TEXT": "\u7063"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u6253"}, {"TEXT": "\u9f13"}, {"TEXT": "\u5dba"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u5927"}, {"TEXT": "\u57d4"}, {"TEXT": "\u6ed8"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u5929"}, {"TEXT": "\u6c34"}, {"TEXT": "\u570d"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u5c07"}, {"TEXT": "\u8ecd"}, {"TEXT": "\u6fb3"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u91d1"}, {"TEXT": "\u9418"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u4e2d"}, {"TEXT": "\u74b0"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u67f4"}, {"TEXT": "\u7063"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u5317"}, {"TEXT": "\u89d2"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u77f3"}, {"TEXT": "\u6fb3"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u4e0a"}, {"TEXT": "\u74b0"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u8d64"}, {"TEXT": "\u67f1"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u5927"}, {"TEXT": "\u5751"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u5927"}, {"TEXT": "\u6f6d"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u5c71"}, {"TEXT": "\u9802"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u7063"}, {"TEXT": "\u4ed4"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u7d05"}, {"TEXT": "\u78e1"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u89c0"}, {"TEXT": "\u5858"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u85cd"}, {"TEXT": "\u7530"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u6a02"}, {"TEXT": "\u5bcc"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u65fa"}, {"TEXT": "\u89d2"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u6cb9"}, {"TEXT": "\u5858"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u9577"}, {"TEXT": "\u6d32"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u5409"}, {"TEXT": "\u6fb3"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u7c89"}, {"TEXT": "\u5dba"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u8475"}, {"TEXT": "\u6d8c"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u53e4"}, {"TEXT": "\u6d1e"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u9577"}, {"TEXT": "\u6c99"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u6885"}, {"TEXT": "\u7aa9"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u77f3"}, {"TEXT": "\u58c1"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u5927"}, {"TEXT": "\u6fb3"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u5858"}, {"TEXT": "\u798f"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u6771"}, {"TEXT": "\u6d8c"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u99ac"}, {"TEXT": "\u7063"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u576a"}, {"TEXT": "\u6d32"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u576a"}, {"TEXT": "\u8f0b"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u897f"}, {"TEXT": "\u8ca2"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u6c99"}, {"TEXT": "\u7530"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u706b"}, {"TEXT": "\u70ad"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u5927"}, {"TEXT": "\u570d"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u6df1"}, {"TEXT": "\u4e95"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u4e0a"}, {"TEXT": "\u6c34"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u5927"}, {"TEXT": "\u6b16"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u5927"}, {"TEXT": "\u57d4"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u6c40"}, {"TEXT": "\u4e5d"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u9752"}, {"TEXT": "\u8863"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u8343"}, {"TEXT": "\u7063"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u5c6f"}, {"TEXT": "\u9580"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u85cd"}, {"TEXT": "\u5730"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u5c0f"}, {"TEXT": "\u6b16"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u5143"}, {"TEXT": "\u6717"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u9326"}, {"TEXT": "\u7530"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u516b"}, {"TEXT": "\u9109"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u5c4f"}, {"TEXT": "\u5c71"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u65b0"}, {"TEXT": "\u7530"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u77f3"}, {"TEXT": "\u5d17"}]}
+{"label": "DISTRICT", "pattern": [{"TEXT": "\u6f6d"}, {"TEXT": "\u5c3e"}]}

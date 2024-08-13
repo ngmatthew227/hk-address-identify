@@ -1,0 +1,106 @@
+{"label": "DISTRICT", "pattern": [{"LOWER": "LANTAU"}, {"LOWER": "ISLAND"}, {"LOWER": "-"}, {"LOWER": "DISCOVERY"}, {"LOWER": "BAY"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "LANTAU"}, {"LOWER": "ISLAND"}, {"LOWER": "-"}, {"LOWER": "CHEK"}, {"LOWER": "LAP"}, {"LOWER": "KOK"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "LANTAU"}, {"LOWER": "ISLAND"}, {"LOWER": "-"}, {"LOWER": "CHEUNG"}, {"LOWER": "SHA"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "LANTAU"}, {"LOWER": "ISLAND"}, {"LOWER": "-"}, {"LOWER": "CHI"}, {"LOWER": "MA"}, {"LOWER": "WAN"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "LANTAU"}, {"LOWER": "ISLAND"}, {"LOWER": "-"}, {"LOWER": "TUNG"}, {"LOWER": "CHUNG"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "LANTAU"}, {"LOWER": "ISLAND"}, {"LOWER": "-"}, {"LOWER": "SHEK"}, {"LOWER": "PIK"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "LANTAU"}, {"LOWER": "ISLAND"}, {"LOWER": "-"}, {"LOWER": "TONG"}, {"LOWER": "FUK"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "LANTAU"}, {"LOWER": "ISLAND"}, {"LOWER": "-"}, {"LOWER": "MUI"}, {"LOWER": "WO"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "SHA"}, {"LOWER": "TIN"}, {"LOWER": "-"}, {"LOWER": "SIU"}, {"LOWER": "LEK"}, {"LOWER": "YUEN"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "LANTAU"}, {"LOWER": "ISLAND"}, {"LOWER": "-"}, {"LOWER": "TAI"}, {"LOWER": "O"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "YUEN"}, {"LOWER": "LONG"}, {"LOWER": "-"}, {"LOWER": "PAT"}, {"LOWER": "HEUNG"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "YUEN"}, {"LOWER": "LONG"}, {"LOWER": "-"}, {"LOWER": "PING"}, {"LOWER": "SHAN"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "YUEN"}, {"LOWER": "LONG"}, {"LOWER": "-"}, {"LOWER": "SHEK"}, {"LOWER": "KONG"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "YUEN"}, {"LOWER": "LONG"}, {"LOWER": "-"}, {"LOWER": "KAM"}, {"LOWER": "TIN"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "YUEN"}, {"LOWER": "LONG"}, {"LOWER": "-"}, {"LOWER": "SAN"}, {"LOWER": "TIN"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "YUEN"}, {"LOWER": "LONG"}, {"LOWER": "-"}, {"LOWER": "TAM"}, {"LOWER": "MEI"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "TUEN"}, {"LOWER": "MUN"}, {"LOWER": "-"}, {"LOWER": "LAM"}, {"LOWER": "TEI"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "TUEN"}, {"LOWER": "MUN"}, {"LOWER": "-"}, {"LOWER": "SIU"}, {"LOWER": "LAM"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "SHA"}, {"LOWER": "TIN"}, {"LOWER": "-"}, {"LOWER": "TAI"}, {"LOWER": "WAI"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "SHA"}, {"LOWER": "TIN"}, {"LOWER": "-"}, {"LOWER": "FO"}, {"LOWER": "TAN"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "CLEAR"}, {"LOWER": "WATER"}, {"LOWER": "BAY"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "DEEP"}, {"LOWER": "WATER"}, {"LOWER": "BAY"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "SHEK"}, {"LOWER": "TONG"}, {"LOWER": "TSUI"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "WONG"}, {"LOWER": "CHUK"}, {"LOWER": "HANG"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "CHEUNG"}, {"LOWER": "SHA"}, {"LOWER": "WAN"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "CROOKED"}, {"LOWER": "ISLAND"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "CHUNG"}, {"LOWER": "HOM"}, {"LOWER": "KOK"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "TSIM"}, {"LOWER": "SHA"}, {"LOWER": "TSUI"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "YAU"}, {"LOWER": "YAT"}, {"LOWER": "CHUEN"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "HUNG"}, {"LOWER": "SHUI"}, {"LOWER": "KIU"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "LANTAU"}, {"LOWER": "ISLAND"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "TSEUNG"}, {"LOWER": "KWAN"}, {"LOWER": "O"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "CAUSEWAY"}, {"LOWER": "BAY"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "HAPPY"}, {"LOWER": "VALLEY"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "KENNEDY"}, {"LOWER": "TOWN"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "SAI"}, {"LOWER": "YING"}, {"LOWER": "PUN"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "SHAU"}, {"LOWER": "KEI"}, {"LOWER": "WAN"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "CHA"}, {"LOWER": "KWO"}, {"LOWER": "LING"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "DIAMOND"}, {"LOWER": "HILL"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "KOWLOON"}, {"LOWER": "CITY"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "KOWLOON"}, {"LOWER": "TONG"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "NGAU"}, {"LOWER": "CHI"}, {"LOWER": "WAN"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "NGAU"}, {"LOWER": "TAU"}, {"LOWER": "KOK"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "SAU"}, {"LOWER": "MAU"}, {"LOWER": "PING"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "SHAM"}, {"LOWER": "SHUI"}, {"LOWER": "PO"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "SHEK"}, {"LOWER": "KIP"}, {"LOWER": "MEI"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "TAI"}, {"LOWER": "KOK"}, {"LOWER": "TSUI"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "TSZ"}, {"LOWER": "WAN"}, {"LOWER": "SHAN"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "WANG"}, {"LOWER": "TAU"}, {"LOWER": "HOM"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "WONG"}, {"LOWER": "TAI"}, {"LOWER": "SIN"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "LAMMA"}, {"LOWER": "ISLAND"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "LAU"}, {"LOWER": "FAU"}, {"LOWER": "SHAN"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "TIN"}, {"LOWER": "SHUI"}, {"LOWER": "WAI"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "AP"}, {"LOWER": "LEI"}, {"LOWER": "CHAU"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "NORTH"}, {"LOWER": "POINT"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "REPULSE"}, {"LOWER": "BAY"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "KOWLOON"}, {"LOWER": "BAY"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "LAI"}, {"LOWER": "CHI"}, {"LOWER": "KOK"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "SAN"}, {"LOWER": "PO"}, {"LOWER": "KONG"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "CHEUNG"}, {"LOWER": "CHAU"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "SHA"}, {"LOWER": "TAU"}, {"LOWER": "KOK"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "SHEUNG"}, {"LOWER": "SHUI"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "SO"}, {"LOWER": "KWUN"}, {"LOWER": "WAT"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "TA"}, {"LOWER": "KWU"}, {"LOWER": "LING"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "MID-LEVELS"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "POK"}, {"LOWER": "FU"}, {"LOWER": "LAM"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "QUARRY"}, {"LOWER": "BAY"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "SAI"}, {"LOWER": "WAN"}, {"LOWER": "HO"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "SHEUNG"}, {"LOWER": "WAN"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "HO"}, {"LOWER": "MAN"}, {"LOWER": "TIN"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "TO"}, {"LOWER": "KWA"}, {"LOWER": "WAN"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "YAU"}, {"LOWER": "MA"}, {"LOWER": "TEI"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "KWAI"}, {"LOWER": "CHUNG"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "MA"}, {"LOWER": "ON"}, {"LOWER": "SHAN"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "SHAM"}, {"LOWER": "TSENG"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "TAI"}, {"LOWER": "PO"}, {"LOWER": "KAU"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "ADMIRALTY"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "KWUN"}, {"LOWER": "TONG"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "PENG"}, {"LOWER": "CHAU"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "TSUEN"}, {"LOWER": "WAN"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "YUEN"}, {"LOWER": "LONG"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "ABERDEEN"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "CHAI"}, {"LOWER": "WAN"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "TAI"}, {"LOWER": "HANG"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "THE"}, {"LOWER": "PEAK"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "WAN"}, {"LOWER": "CHAI"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "HUNG"}, {"LOWER": "HOM"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "MONG"}, {"LOWER": "KOK"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "YAU"}, {"LOWER": "TONG"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "KWU"}, {"LOWER": "TUNG"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "PING"}, {"LOWER": "CHE"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "SAI"}, {"LOWER": "KUNG"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "TING"}, {"LOWER": "KAU"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "TSING"}, {"LOWER": "YI"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "TUEN"}, {"LOWER": "MUN"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "CENTRAL"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "STANLEY"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "TAI"}, {"LOWER": "TAM"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "LAM"}, {"LOWER": "TIN"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "FANLING"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "SHA"}, {"LOWER": "TIN"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "TAI"}, {"LOWER": "LAM"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "SHEK"}, {"LOWER": "O"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "LOK"}, {"LOWER": "FU"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "MA"}, {"LOWER": "WAN"}]}
+{"label": "DISTRICT", "pattern": [{"LOWER": "TAI"}, {"LOWER": "PO"}]}

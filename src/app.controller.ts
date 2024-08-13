@@ -12,7 +12,7 @@ export class AppController {
   }
 
   @Post('/api/parse')
-  parse(@Body() body: { address: [] | string }): any {
-    return this.appService.parse(body);
+  parse(@Body() body: { address: string[] }): Promise<string> {
+    return this.appService.parseAddress(body.address);
   }
 }
